@@ -1,4 +1,4 @@
-# Kviz - Praksa Septembar 2023
+ 
 # knowledge-showdown
 
 This template should help get you started developing with Vue 3 in Vite.
