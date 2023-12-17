@@ -14,13 +14,15 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
+
+## Project Setup
 note: To run and build project go to Knowledge-Showdown-Web-App folder and run commands there.
 
 ```sh
 cd ./Knowledge-Showdown-Web-App
 ```
 
-## Project Setup
+
 
 ```sh
 pnpm install
