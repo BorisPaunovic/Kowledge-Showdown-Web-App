@@ -22,7 +22,7 @@ note: To run and build project go to Knowledge-Showdown-Web-App folder and run c
 cd ./Knowledge-Showdown-Web-App
 ```
 
-
+## Istall all dependencies for a project
 
 ```sh
 pnpm install
