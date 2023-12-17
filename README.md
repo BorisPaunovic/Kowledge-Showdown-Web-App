@@ -1,4 +1,4 @@
-# Currentky hosted at:
+# Currently hosted at:
 
   [Knowledge Showdown](http://226d123.e2.mars-hosting.com/)
  
@@ -13,7 +13,7 @@
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 
-## Project Setup
+# Project Setup
 note: To run and build project go to Knowledge-Showdown-Web-App folder and run commands there.
 
 ```sh
