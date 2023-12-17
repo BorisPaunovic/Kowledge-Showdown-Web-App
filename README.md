@@ -37,7 +37,7 @@ Welcome to the hub of intellect and fun, where knowledge takes center stage! Kno
 At Knowledge Showdown, we believe that learning should be exhilarating. Our mission is to create an environment where players can not only test their knowledge but also discover new facts, spark curiosity, and foster a love for continuous learning. We're committed to providing a platform that is not just about winning but about the joy of discovery.
 
 ## 🏆 What Sets Us Apart:
-    Diverse Categories: From science and history to pop culture and beyond, we've curated a vast array of categories to ensure there's something for every knowledge seeker.
+   Diverse Categories: From science and history to pop culture and beyond, we've curated a vast array of categories to ensure there's something for every knowledge seeker.
     Challenging Questions: Prepare to be mentally stimulated with thought-provoking questions, keeping you on your toes from start to finish.
     User-Friendly Interface: Our sleek and intuitive design makes navigating the game a breeze, allowing you to focus on what matters most—answering questions and having a blast. 
 
