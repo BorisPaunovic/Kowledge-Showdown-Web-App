@@ -1,6 +1,6 @@
 # Currentky hosted at:
 
-  [Mars Platrform](http://226d123.e2.mars-hosting.com/)
+  [Knowledge Showdown](http://226d123.e2.mars-hosting.com/)
  
 # knowledge-showdown
 
