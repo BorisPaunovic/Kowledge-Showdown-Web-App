@@ -37,7 +37,14 @@ pnpm dev
 ```sh
 pnpm build
 ```
+
 # About
+
+
+
+https://github.com/BorisPaunovic/Kowledge-Showdown-Web-App/assets/119711363/0d0283d0-ed31-40e8-9386-16484135b51f
+
+
 
 ## 🌐 About Us:
 Welcome to the hub of intellect and fun, where knowledge takes center stage! Knowledge Showdown is not just a game; it's an immersive experience designed for the trivia enthusiast in you. Whether you're a seasoned quiz master or a casual player looking to expand your horizons, we've crafted an engaging platform that promises to challenge, entertain, and enlighten.
