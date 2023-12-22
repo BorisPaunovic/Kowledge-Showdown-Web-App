@@ -41,8 +41,9 @@ pnpm build
 # About
 
 
+ 
 
-https://github.com/BorisPaunovic/Kowledge-Showdown-Web-App/assets/119711363/0d0283d0-ed31-40e8-9386-16484135b51f
+https://github.com/BorisPaunovic/Kowledge-Showdown-Web-App/assets/119711363/136fcad9-574f-4a76-9d10-b6f47726e765
 
 
 
