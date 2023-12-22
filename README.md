@@ -48,10 +48,10 @@ pnpm build
  
 # Features
 
-   &#149; User-Friendly Interface: Intuitive and responsive design for an enjoyable user experience.
-  &#149; Quiz Creation: Easily create quizzes with customizable settings, including duration, difficulty, and question types.
-   &#149; Quiz Participation: Users can participate in quizzes, answering questions within the specified time frame.
-   &#149; Leaderboard: Keep track of top performers with a dynamic leaderboard.
+   * User-Friendly Interface: Intuitive and responsive design for an enjoyable user experience.
+* Quiz Creation: Easily create quizzes with customizable settings, including duration, difficulty, and question types.
+   * Quiz Participation: Users can participate in quizzes, answering questions within the specified time frame.
+   * Leaderboard: Keep track of top performers with a dynamic leaderboard.
 
 # Technologies Used
 
