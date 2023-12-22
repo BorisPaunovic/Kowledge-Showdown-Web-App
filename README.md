@@ -43,9 +43,15 @@ Compile and Minify for Production
 
 ```bash
 
+
+
+
+
 pnpm build
 ```
- 
+
+https://github.com/BorisPaunovic/Kowledge-Showdown-Web-App/assets/119711363/a012bc7a-8200-4dab-a333-2e5c61caff6f
+
 # Features
 
    * User-Friendly Interface: Intuitive and responsive design for an enjoyable user experience.
